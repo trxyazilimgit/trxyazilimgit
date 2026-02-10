@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at **[https://yusufozbas.com/en](https://yusufozbas.com/en)**
 
-- 📝 I regularly write articles on **[https://yusufozbas.com/blog](https://yusufozbas.com/blog)**
+- 📝 I regularly write articles on **[https://yusufozbas.com/en/blog](https://yusufozbas.com/en/blog)**
 
-- 📄 Know about my experiences **[https://yusufozbas.com/about](https://yusufozbas.com/about)**
+- 📄 Know about my experiences **[https://yusufozbas.com/en/about](https://yusufozbas.com/en/about)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
